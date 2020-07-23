@@ -23,10 +23,9 @@ Por ser um projeto com ReactJS, há a necessidade de ter instalado o NodeJS.
 Com ele em sua máquina, basta abrir o terminal e navegar até o repositório 
 clonado e rodar:
 
-1. `npm install` para instalar todas as dependências;
-2. `npm run start` para rodar localmente o projeto
-3. `npm run build` para gerar uma versão estática do projeto 
-(que ficará na pasta `build`)
+1. `npm install` - para instalar todas as dependências;
+2. `npm run start` - para rodar localmente o projeto
+3. `npm run build` - para gerar uma versão estática do projeto (que ficará na pasta `build`)
 
 ## Contato 
 - Autor: Israel Queiroz Cavalcanti
