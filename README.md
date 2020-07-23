@@ -29,5 +29,5 @@ clonado e rodar:
 (que ficará na pasta `build`)
 
 ## Contato 
-<Israel Queiroz Cavalcanti>
-<israel_cavalcanti@hotmail.com>
+- Autor: Israel Queiroz Cavalcanti
+- E-mail: israel_cavalcanti@hotmail.com
