@@ -1,10 +1,5 @@
 # WhatsLabe
 
-1. As especificações do projeto;
-2. Explicação da *stack* (linguagem, bibliotecas e *frameworks*) utilizada;
-3. Comentários sobre o raciocínio da arquitetura e/ou componentização;
-4. Instruções de como rodar e *deployar* o projeto
-
 ## Stack
 Projeto desenvolvido no módulo front-end do curso de web developer full-stack 
 na Labenu, onde foi utlizado ReactJS, HTML e CSS. Como gerenciador de pacotes 
