@@ -2,8 +2,8 @@
 
 ## Stack
 Projeto desenvolvido no módulo front-end do curso de web developer full-stack 
-na Labenu, onde foi utlizado ReactJS, HTML e CSS. Como gerenciador de pacotes 
-do NodeJS o npm.
+na Labenu, onde foi utlizado ReactJS, HTML e CSS. 
+Como gerenciador de pacotes do NodeJS o npm.
 
 ## Sobre
 Esse foi um dos primeiros projetos que fiz em React.
